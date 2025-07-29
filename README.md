@@ -37,7 +37,7 @@ A simple and efficient **To-Do List** application built with **React** that allo
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/dev-Akshit/todo-app.git
 cd todo-app
 ```
 
